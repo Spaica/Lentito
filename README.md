@@ -1,23 +1,23 @@
 # Lentito
 
-Lentito è un'applicazione nativa per l'ecosistema Apple sviluppata in **Swift** e **SwiftUI**, dotata di un'estensione dedicata per **Apple Watch (Watch App)**. L'applicazione è progettata per assistere gli utenti nella gestione del tempo, nella scansione di timer personalizzati e nel supporto alla comunicazione/speech tramite un'interfaccia focalizzata su accessibilità e reattività.
+Lentito is a native application for the Apple ecosystem developed in **Swift** and **SwiftUI**, featuring a dedicated extension for **Apple Watch (Watch App)**. The application is designed to assist users in time management, custom timer tracking, and communication/speech support through an interface focused on accessibility and responsiveness.
 
-##  Funzionalità principali
+## Main Features
 
-* **Supporto Apple Watch:** Integrazione nativa completa con una Watch App dedicata (`Lentito Watch App`) per monitorare e gestire le sessioni direttamente dal polso.
-* **Gestione dei Timer (Timer Setup & View):** Configurazione flessibile e intuitiva di timer personalizzati adattabili a diverse esigenze quotidiane o di speech.
-* **Speech & Speech Watch App:** Funzionalità integrate (o predisposte) per il supporto vocale o la gestione di ritmi di parlato, ottimizzate per dispositivi standalone.
-* **Architettura Reattiva:** Logica di business interamente separata tramite ViewModel (`TimerViewModel`) per garantire una gestione dello stato pulita e flessibile.
+* **Apple Watch Support:** Full native integration with a dedicated Watch App (`Lentito Watch App`) to monitor and manage sessions directly from the wrist.
+* **Timer Management (Timer Setup & View):** Flexible and intuitive configuration of custom timers adaptable to various daily or speech needs.
+* **Speech & Speech Watch App:** Integrated (or pre-configured) features for voice support or managing speech pacing, optimized for standalone devices.
+* **Responsive Architecture:** Business logic completely separated via ViewModel (`TimerViewModel`) to ensure clean and flexible state management.
 
-##  Tecnologie Utilizzate
+## Technologies Used
 
-* **Linguaggio:** Swift
-* **Framework UI:** SwiftUI
-* **Target Supportati:** iOS (iPhone) & watchOS (Apple Watch)
-* **Strumenti:** Xcode
-* **Architettura:** MVVM (Model-View-ViewModel)
+* **Language:** Swift
+* **UI Framework:** SwiftUI
+* **Supported Targets:** iOS (iPhone) & watchOS (Apple Watch)
+* **Tools:** Xcode
+* **Architecture:** MVVM (Model-View-ViewModel)
 
-##  Team di sviluppo
+## Development Team
 
 * **Andreina Costagliola**
 * **Erfan Yarahamdi**
