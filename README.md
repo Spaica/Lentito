@@ -4,16 +4,16 @@ Lentito is a native application for the Apple ecosystem developed in **Swift** a
 
 ## Main Features
 
-* **Apple Watch Support:** Full native integration with a dedicated Watch App (`Lentito Watch App`) to monitor and manage sessions directly from the wrist.
-* **Timer Management (Timer Setup & View):** Flexible and intuitive configuration of custom timers adaptable to various daily or speech needs.
-* **Speech & Speech Watch App:** Integrated (or pre-configured) features for voice support or managing speech pacing, optimized for standalone devices.
-* **Responsive Architecture:** Business logic completely separated via ViewModel (`TimerViewModel`) to ensure clean and flexible state management.
+* **Apple Watch support:** Full native integration with a dedicated Watch App (`Lentito Watch App`) to monitor and manage sessions directly from the wrist.
+* **Timer management:** Flexible and intuitive configuration of custom timers adaptable to various daily or speech needs.
+* **Speech Watch App:** Integrated features for voice support or managing speech pacing, optimized for standalone devices.
+* **Responsive architecture:** Business logic completely separated via ViewModel (`TimerViewModel`) to ensure clean and flexible state management.
 
 ## Technologies Used
 
 * **Language:** Swift
-* **UI Framework:** SwiftUI
-* **Supported Targets:** iOS (iPhone) & watchOS (Apple Watch)
+* **UI framework:** SwiftUI
+* **Supported targets:** watchOS (Apple Watch)
 * **Tools:** Xcode
 * **Architecture:** MVVM (Model-View-ViewModel)
 
