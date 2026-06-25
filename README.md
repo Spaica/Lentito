@@ -17,7 +17,7 @@ Lentito is a native application for the Apple ecosystem developed in **Swift** a
 * **Tools:** Xcode
 * **Architecture:** MVVM (Model-View-ViewModel)
 
-## Development Team
+## Development team
 
 * **Andreina Costagliola**
 * **Erfan Yarahamdi**
